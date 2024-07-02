@@ -78,8 +78,8 @@ body {
 @media (max-width: 900px){
   .btn {
     margin: 5px;
-    height: 80px;
-    width: 80px;
+    height: 75px;
+    width: 75px;
     border: 5px solid black;
   }
 
